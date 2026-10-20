@@ -3,6 +3,15 @@
 Three checkpoints. Run each one and compare with the expected output.
 (No `make`? Copy the two commands under each step instead.)
 
+## Setup
+
+Open a terminal in this `ep2` folder, then:
+
+- **macOS:** `brew install icarus-verilog`. `make` is already there (if not, run `xcode-select --install`).
+- **Linux (Ubuntu / Debian):** `sudo apt install iverilog make`
+- **Windows (recommended, WSL):** install WSL (`wsl --install` in PowerShell, then restart), open the Ubuntu app, run `sudo apt install iverilog make`, and use the commands below inside Ubuntu.
+- **Windows (no WSL):** install Icarus Verilog from [bleyer.org/icarus](https://bleyer.org/icarus/) and tick "Add executable folder(s) to the user PATH". There's no `make`, so open **Command Prompt** and use the `# or:` command under each checkpoint (leave out the `# or:` part).
+
 ## Checkpoint 1: four cores, one bug
 
 ```
