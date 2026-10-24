@@ -1,0 +1,5 @@
+// Episode 2's layer: lane 0 = 1 1 1, lane 1 = 2 0 1, lane 2 = 3 3 3, lane 3 = 10 20 30
+01 01 01
+02 00 01
+03 03 03
+0A 14 1E
