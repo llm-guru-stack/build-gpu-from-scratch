@@ -8,6 +8,7 @@ Every folder is complete: copy it, run one command, and you should see exactly t
 | 1 | [`ep1/`](ep1) | One core that adds or multiplies |
 | 2 | [`ep2/`](ep2) | Four lanes, thread IDs, a scheduler, and a neural-network layer |
 | 3 | [`ep3/`](ep3) | Memory: a slow VRAM model, then coalescing and prefetching |
+| 4 | [`ep4/`](ep4) | A programmable GPU, an assembler, and the Tang Nano 9K FPGA board |
 
 ## Install (once)
 
